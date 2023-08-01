@@ -1,0 +1,15 @@
+{
+    "name": "ahmadreza/hello-world",
+    "autoload": {
+        "psr-4": {
+            "Ahmadreza\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmadreza Fatemikia",
+            "email": "83141114+ahmadrezafatemikia@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
